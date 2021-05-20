@@ -11,3 +11,7 @@ npm install
 
 npm run start
 ```
+
+## Screenshot:
+
+![Screenshot](screenshot.png "Screenshot")
